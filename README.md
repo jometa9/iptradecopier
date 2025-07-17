@@ -2,7 +2,7 @@
 
 An intelligent trade copier that allows automatic replication of trading operations.
 
-## 📥 Downloads
+## Downloads
 
 Download the latest version for your operating system:
 
@@ -10,8 +10,8 @@ Download the latest version for your operating system:
 
 | Operating System | Direct Download |
 |------------------|-----------------|
-| 🪟 Windows | [Download for Windows](./releases/iptradecopier-windows.exe) |
-| 🍎 macOS | [Download for macOS](./releases/iptradecopier-macos.dmg) |
+| Windows | [Download for Windows](./releases/iptradecopier-windows.exe) |
+| macOS | [Download for macOS](./releases/iptradecopier-macos.dmg) |
 
 ### All Versions
 
